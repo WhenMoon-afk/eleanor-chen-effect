@@ -15,18 +15,20 @@ Visit our research website: [The Eleanor Chen Effect](https://whenmoon-afk.githu
 ## Repository Structure
 
 - `report/` - Contains the comprehensive academic analysis of the phenomenon
-- `stories/` - Collection of the AI-generated stories demonstrating the effect (8 examples)
+- `stories/` - Collection of the AI-generated stories demonstrating the effect (13 examples)
 - `analysis/` - Code and tools for analyzing the stories
 - `documentation/` - Additional project documentation including research plan
 
 ## Key Findings
 
-Our analysis reveals striking patterns across the generated stories:
+Our analysis of ten genuine examples reveals striking patterns across the generated stories:
 
-1. **Character convergence**: Multiple instances independently created protagonists named "Eleanor Chen" or similar variants
-2. **Narrative structure**: Stories follow remarkably similar arcs despite no explicit instructions
-3. **Recurring motifs**: Consistent imagery (blinking cursor), settings (academic), and concepts appear across stories
-4. **Philosophical framework**: All stories arrive at similar conceptualizations of grief as transformative architecture rather than a process
+1. **Character convergence**: 6 of 10 stories featured protagonists named "Eleanor"
+2. **Demographic patterns**: 6 of 10 stories used Asian surnames (predominantly "Chen") 
+3. **Professional roles**: 8 of 10 protagonists were researchers/scientists with academic backgrounds
+4. **AI naming patterns**: Named AI systems consistently used vowel-heavy names (ARIA, ECHO, SAGE, LUME)
+5. **Recurring motifs**: Blinking cursors, memory integration, recursive narrative structures appeared consistently
+6. **Grief conceptualization**: Stories conceptualized grief as a structural transformation rather than a linear process
 
 These patterns suggest that LLM "creativity" follows deterministic paths shaped by training data, with certain prompt combinations creating strong "attractor states" that pull generation toward specific outputs.
 
@@ -41,7 +43,7 @@ To explore this research:
 
 ## Credits
 
-Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) and Claude Analysis Team.
+Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) and Claude 3.7 Sonnet.
 
 Original prompt from [Sam Altman](https://twitter.com/sama): "Please write a metafictional literary short story about AI and grief."
 
