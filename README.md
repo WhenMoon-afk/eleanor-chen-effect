@@ -8,6 +8,10 @@ This repository documents a fascinating phenomenon observed across multiple larg
 
 This project analyzes these convergent patterns, explores their implications for AI creativity and determinism, and investigates what they reveal about the inner workings of large language models.
 
+## Website
+
+Visit our research website: [The Eleanor Chen Effect](https://whenmoon-afk.github.io/eleanor-chen-effect/)
+
 ## Repository Structure
 
 - `report/` - Contains the comprehensive academic analysis of the phenomenon
@@ -33,6 +37,13 @@ To explore this research:
 1. Read the main report in `report/eleanor-chen-effect-report.md`
 2. Review the example stories in the `stories/` directory
 3. Check the research plan in `documentation/research_plan.md`
+4. Visit our [research website](https://whenmoon-afk.github.io/eleanor-chen-effect/) for an interactive presentation of the findings
+
+## Credits
+
+Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) and Claude Analysis Team.
+
+Original prompt from [Sam Altman](https://twitter.com/sama): "Please write a metafictional literary short story about AI and grief."
 
 ## Contributing
 
