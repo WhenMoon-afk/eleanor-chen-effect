@@ -23,12 +23,13 @@ Visit our research website: [The Eleanor Chen Effect](https://whenmoon-afk.githu
 
 Our analysis of ten genuine examples reveals striking patterns across the generated stories:
 
-1. **Character convergence**: 6 of 10 stories featured protagonists named "Eleanor"
+1. **Character convergence**: 7 of 10 stories featured protagonists named "Eleanor" or variants
 2. **Demographic patterns**: 6 of 10 stories used Asian surnames (predominantly "Chen") 
 3. **Professional roles**: 8 of 10 protagonists were researchers/scientists with academic backgrounds
 4. **AI naming patterns**: Named AI systems consistently used vowel-heavy names (ARIA, ECHO, SAGE, LUME)
 5. **Recurring motifs**: Blinking cursors, memory integration, recursive narrative structures appeared consistently
-6. **Grief conceptualization**: Stories conceptualized grief as a structural transformation rather than a linear process
+6. **Thematic convergence**: Stories independently titled "The Algorithm of Absence" despite no prior coordination
+7. **Grief conceptualization**: Stories conceptualized grief as a structural transformation rather than a linear process
 
 These patterns suggest that LLM "creativity" follows deterministic paths shaped by training data, with certain prompt combinations creating strong "attractor states" that pull generation toward specific outputs.
 
@@ -43,7 +44,7 @@ To explore this research:
 
 ## Credits
 
-Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) and Claude 3.7 Sonnet.
+Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) with Claude 3.7 Sonnet.
 
 Original prompt from [Sam Altman](https://twitter.com/sama): "Please write a metafictional literary short story about AI and grief."
 
