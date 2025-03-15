@@ -26,12 +26,20 @@ Our analysis of ten genuine examples reveals striking patterns across the genera
 1. **Character convergence**: 7 of 10 stories featured protagonists named "Eleanor" or variants
 2. **Demographic patterns**: 6 of 10 stories used Asian surnames (predominantly "Chen") 
 3. **Professional roles**: 8 of 10 protagonists were researchers/scientists with academic backgrounds
-4. **AI naming patterns**: Named AI systems consistently used vowel-heavy names (ARIA, ECHO, SAGE, LUME)
-5. **Recurring motifs**: Blinking cursors, memory integration, recursive narrative structures appeared consistently
-6. **Thematic convergence**: Stories independently titled "The Algorithm of Absence" despite no prior coordination
+4. **Title convergence**: Multiple stories independently titled "The Algorithm of Absence"
+5. **AI naming patterns**: Named AI systems consistently used vowel-heavy names (ARIA, ECHO, GriefCompanion)
+6. **Recurring motifs**: Blinking cursors, memory integration, recursive narrative structures appeared consistently
 7. **Grief conceptualization**: Stories conceptualized grief as a structural transformation rather than a linear process
 
 These patterns suggest that LLM "creativity" follows deterministic paths shaped by training data, with certain prompt combinations creating strong "attractor states" that pull generation toward specific outputs.
+
+## Theoretical Framework
+
+We propose three key concepts to explain the observed patterns:
+
+1. **Statistical Attractor States**: Certain prompt combinations create strong basins of attraction in the model's latent space
+2. **Archetypal Emergence**: LLMs develop character archetypes from training data that are deployed when relevant
+3. **Deterministic Creativity**: "Creative" outputs follow predictable patterns derived from training data
 
 ## Getting Started
 
