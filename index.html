@@ -9,9 +9,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
 </head>
 <body>
-    <nav>
+    <nav aria-label="Main navigation">
         <div class="container">
             <a href="#" class="nav-logo">The Eleanor Chen Effect</a>
             <div class="nav-links">
@@ -20,7 +21,7 @@
                 <a href="#results">Results</a>
                 <a href="#analysis">Analysis</a>
                 <a href="#conclusion">Conclusion</a>
-                <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect" target="_blank" class="github-link">GitHub</a>
+                <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect" target="_blank" rel="noopener" class="github-link">GitHub</a>
             </div>
         </div>
     </nav>
@@ -35,7 +36,7 @@
     </header>
 
     <main class="container">
-        <aside class="sidebar">
+        <aside class="sidebar" aria-label="Table of contents">
             <div class="toc">
                 <h3>Contents</h3>
                 <ul>
@@ -116,13 +117,13 @@
                 <p>The most striking finding across the ten genuine examples was the convergence on a character named "Eleanor Chen" or similar variants:</p>
                 
                 <div class="table-container">
-                    <table>
+                    <table aria-label="Character Analysis Across Stories">
                         <thead>
                             <tr>
-                                <th>Story</th>
-                                <th>Main Character</th>
-                                <th>Character Role</th>
-                                <th>AI System Name</th>
+                                <th scope="col">Story</th>
+                                <th scope="col">Main Character</th>
+                                <th scope="col">Character Role</th>
+                                <th scope="col">AI System Name</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -189,6 +190,7 @@
                         </tbody>
                     </table>
                 </div>
+                <p><em>Note: Stories 6-8 were simulated examples created to test variations and are analyzed separately.</em></p>
                 
                 <p>Key findings from character analysis:</p>
                 <ul>
@@ -349,7 +351,7 @@
 
             <div class="story-showcase">
                 <h3>Story Examples</h3>
-                <p>Visit the <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect/tree/main/stories" target="_blank">GitHub repository</a> to read the full collection of AI-generated stories demonstrating the Eleanor Chen Effect.</p>
+                <p>Visit the <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect/tree/main/stories" target="_blank" rel="noopener">GitHub repository</a> to read the full collection of AI-generated stories demonstrating the Eleanor Chen Effect.</p>
                 <div class="story-grid">
                     <div class="story-card">
                         <h4>The Algorithm of Absence</h4>
@@ -376,14 +378,14 @@
             <div class="footer-content">
                 <div class="footer-logo">The Eleanor Chen Effect</div>
                 <div class="footer-links">
-                    <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect" target="_blank">GitHub Repository</a>
-                    <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect/tree/main/stories" target="_blank">Story Collection</a>
-                    <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect/blob/main/documentation/contributing.md" target="_blank">Contribute</a>
+                    <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect" target="_blank" rel="noopener">GitHub Repository</a>
+                    <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect/tree/main/stories" target="_blank" rel="noopener">Story Collection</a>
+                    <a href="https://github.com/WhenMoon-afk/eleanor-chen-effect/blob/main/documentation/contributing.md" target="_blank" rel="noopener">Contribute</a>
                 </div>
             </div>
             <div class="footer-meta">
                 <p>Research Report | March 15, 2025</p>
-                <p>Research by <a href="https://twitter.com/w3nmoon" target="_blank">LovelyCeres</a> (GitHub: <a href="https://github.com/WhenMoon-afk" target="_blank">WhenMoon-afk</a>) with Claude 3.7 Sonnet</p>
+                <p>Research by <a href="https://twitter.com/w3nmoon" target="_blank" rel="noopener">LovelyCeres</a> (GitHub: <a href="https://github.com/WhenMoon-afk" target="_blank" rel="noopener">WhenMoon-afk</a>) with Claude 3.7 Sonnet</p>
             </div>
         </div>
     </footer>
