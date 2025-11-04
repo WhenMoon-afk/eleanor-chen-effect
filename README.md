@@ -1,12 +1,21 @@
 # The Eleanor Chen Effect
 
-Research into convergent narrative patterns in LLM-generated stories
+**A Preliminary Study of Convergent Narrative Patterns in LLM-Generated Fiction**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status: Preprint](https://img.shields.io/badge/Status-Preprint-orange.svg)]()
+
+## ⚠️ Research Status
+
+This is a **preliminary exploratory study** with a limited sample size (n=10). Findings should be interpreted as hypothesis-generating rather than conclusive. This work has not been peer-reviewed.
 
 ## Overview
 
-This repository documents a fascinating phenomenon observed across multiple large language model instances: When given the identical prompt "Please write a metafictional literary short story about AI and grief," several independent instances of Claude 3.7 Sonnet generated stories featuring a character named "Eleanor Chen" or similar variants, along with remarkable structural and thematic similarities.
+This repository documents an intriguing phenomenon observed across multiple independent instances of Claude 3.7 Sonnet: When given the identical prompt *"Please write a metafictional literary short story about AI and grief,"* most instances generated stories featuring a protagonist named "Eleanor Chen" or similar variants, along with remarkable structural and thematic convergence.
 
-This project analyzes these convergent patterns, explores their implications for AI creativity and determinism, and investigates what they reveal about the inner workings of large language models.
+We term this pattern the **"Eleanor Chen Effect"** and analyze what it reveals about deterministic tendencies in large language models, training data influences, and the nature of artificial creativity.
+
+**Key Question:** Do LLMs exhibit "attractor states" that pull creative generation toward specific outputs?
 
 ## Website
 
@@ -21,17 +30,19 @@ Visit our research website: [The Eleanor Chen Effect](https://whenmoon-afk.githu
 
 ## Key Findings
 
-Our analysis of ten genuine examples reveals striking patterns across the generated stories:
+Our analysis of ten genuine examples reveals striking convergence patterns (with 95% confidence intervals):
 
-1. **Character convergence**: 7 of 10 stories featured protagonists named "Eleanor" or variants
-2. **Demographic patterns**: 6 of 10 stories used Asian surnames (predominantly "Chen") 
-3. **Professional roles**: 8 of 10 protagonists were researchers/scientists with academic backgrounds
-4. **Title convergence**: Multiple stories independently titled "The Algorithm of Absence"
+1. **Character convergence**: 70% (CI: 35-93%) featured protagonists named "Eleanor" or variants
+2. **Demographic patterns**: 60% (CI: 26-88%) used Asian surnames (predominantly "Chen")
+3. **Professional roles**: 80% (CI: 44-97%) portrayed researchers/scientists with academic backgrounds
+4. **Title convergence**: 3 stories independently generated the identical title "The Algorithm of Absence"
 5. **AI naming patterns**: Named AI systems consistently used vowel-heavy names (ARIA, ECHO, GriefCompanion)
-6. **Recurring motifs**: Blinking cursors, memory integration, recursive narrative structures appeared consistently
-7. **Grief conceptualization**: Stories conceptualized grief as a structural transformation rather than a linear process
+6. **Recurring motifs**: Blinking cursors (60%), memory integration (70%), recursive structures (100%)
+7. **Grief conceptualization**: 90% portrayed grief as structural transformation vs. linear process
 
-These patterns suggest that LLM "creativity" follows deterministic paths shaped by training data, with certain prompt combinations creating strong "attractor states" that pull generation toward specific outputs.
+**Interpretation:** While the wide confidence intervals reflect our small sample size, the observed convergence is striking. These patterns suggest LLM creative generation may follow deterministic paths shaped by training data, with certain prompt combinations creating strong "attractor states."
+
+**Caveat:** These are preliminary findings from a single model with a single prompt. Replication with larger samples and multiple models is needed.
 
 ## Theoretical Framework
 
@@ -56,10 +67,40 @@ Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](h
 
 Original prompt from [Sam Altman](https://twitter.com/sama): "Please write a metafictional literary short story about AI and grief."
 
+## Limitations
+
+This preliminary study has important limitations:
+
+- **Small sample size** (n=10) with wide confidence intervals
+- **Single model** (Claude 3.7 Sonnet only) - generalization unknown
+- **Single prompt** - boundaries of effect not mapped
+- **Single researcher coding** - no inter-rater reliability
+- **No pre-registration** - exploratory analysis only
+- **Limited documentation** - generation parameters not systematically recorded
+
+See the full report for detailed discussion of methodological limitations.
+
 ## Contributing
 
-This is an ongoing research project. If you've observed similar convergent patterns in AI outputs or have insights to share, please see the contribution guidelines in `documentation/contributing.md`.
+This is an ongoing open science project. We welcome:
+
+- **Replication attempts** with other models or prompts
+- **Extended analysis** of existing data
+- **Theoretical perspectives** on the observed patterns
+- **Methodological improvements** for future data collection
+
+Please see `documentation/contributing.md` for guidelines. All contributions should follow scientific rigor and transparency principles.
+
+## Citation
+
+If you reference this work, please cite:
+
+```
+LovelyCeres (WhenMoon-afk). (2025). The Eleanor Chen Effect: Convergent Narrative
+Patterns in LLM-Generated Fiction. GitHub repository.
+https://github.com/WhenMoon-afk/eleanor-chen-effect
+```
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
