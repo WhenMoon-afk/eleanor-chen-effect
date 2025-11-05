@@ -1,7 +1,7 @@
 # Convergent Narratives in Large Language Models: The Eleanor Chen Effect
 
 **Authors:** *LovelyCeres (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk), Twitter: [@w3nmoon](https://twitter.com/w3nmoon)) with Claude 3.7 Sonnet*
-**Date:** November 2025
+**Date:** March 2025
 **Status:** Preliminary Research Report (Preprint)
 
 **Note:** This is a preliminary exploratory study with a limited sample size (n=10). Findings should be interpreted as hypothesis-generating rather than conclusive. This work has not been peer-reviewed.

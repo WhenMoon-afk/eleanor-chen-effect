@@ -2,7 +2,7 @@
 
 **Status:** Preliminary Study - Phase 1 (Exploratory Analysis)
 
-**Last Updated:** November 2025
+**Last Updated:** March 2025
 
 ## Research Objectives
 
@@ -56,7 +56,7 @@ The expanded dataset (now including stories 9-13) confirms and strengthens our o
 
 ## Timeline
 
-### Phase 1: Exploratory Study (COMPLETED - November 2025)
+### Phase 1: Exploratory Study (COMPLETED - March 2025)
 
 - ✅ Data collection (10 genuine examples + 3 simulated)
 - ✅ Qualitative and quantitative analysis

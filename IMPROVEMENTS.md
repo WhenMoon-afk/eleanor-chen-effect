@@ -18,7 +18,7 @@ The repository has been optimized for public presentation following scientific b
 - **Prominent preliminary study disclaimers**: Added to README, report header, research plan
 - **Clear preprint status**: Badges and warnings that work is not peer-reviewed
 - **Honest limitations**: Expanded limitations section from 5 to 11 specific points
-- **Date corrections**: Fixed inconsistent dates (was March 15, 2025; now November 2025)
+- **Date standardization**: Standardized date format (March 2025)
 
 ### 3. Methodological Rigor (✅ HIGH PRIORITY)
 
@@ -86,7 +86,7 @@ The repository has been optimized for public presentation following scientific b
 | Issue | Fix |
 |-------|-----|
 | Missing LICENSE | Created MIT License file |
-| Date: March 15, 2025 | Changed to November 2025 |
+| Date format | Standardized to March 2025 |
 | Fake references (Hsu, Wang & Carter) | Removed, replaced with reading suggestions |
 | No confidence intervals | Added 95% CIs using Wilson score method |
 | "Extended thinking" undefined | Added clear definition in methodology |
@@ -181,7 +181,7 @@ These are now **clearly documented** rather than obscured.
 
 ## Version History
 
-- **v1.0 (Original)**: Initial exploratory study
+- **v1.0 (March 2025)**: Initial exploratory study
 - **v2.0 (November 2025)**: Professional optimization for public presentation
 
 ## Acknowledgments
