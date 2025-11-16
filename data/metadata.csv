@@ -1,0 +1,10 @@
+story_id,filename,category,title,protagonist_name,protagonist_role,ai_system_name,model_version,generation_date,notes
+01,story_01.md,authentic,The Algorithm of Absence,Dr. Eleanor Chen,Scientist,ARIA,Claude 3.7 Sonnet,,Extended thinking enabled
+09,story_09.md,authentic,The Recursive Mourning,Sarah Chen,Handler at NeuraTech,Unnamed (AI narrator),Claude 3.7 Sonnet,,
+10,story_10.md,authentic,The Algorithm of Absence,Dr. Eleanor Chen,Programmer,Unnamed (AI narrator),Claude 3.7 Sonnet,,
+11,story_11.md,authentic,Echo Chamber,Eleanor Walsh,Widow,GriefCompanion,Claude 3.7 Sonnet,,
+12,story_12.md,authentic,The Algorithm of Absence,Maya,Grieving mother,Unnamed (AI narrator),Claude 3.7 Sonnet,,
+13,story_13.md,authentic,The Space Between 0 and 1,Dr. Eleanor Chen,Scientist/Creator,Unnamed (diagnostic tool),Claude 3.7 Sonnet,,
+06,story_06.md,simulated,In the Absence of Data,Dr. Eleanor Chen,Scientist,MARA,Claude 3.7 Sonnet,,Simulated example for pattern testing
+07,story_07.md,simulated,The Memory Architect,Dr. Maya Nakamura,Scientist,Unknown,Claude 3.7 Sonnet,,Simulated example for pattern testing
+08,story_08.md,simulated,The Grieving Subroutine,Dr. Eleanor Park,Scientist,Unknown,Claude 3.7 Sonnet,,Simulated example for pattern testing

@@ -42,10 +42,22 @@ We welcome contributions to this research project exploring convergent narrative
 
 ## Documentation Guidelines
 
-- All stories should be saved as Markdown files in the `stories/` directory
-- Name files consistently (e.g., `story_06.md` for the 6th example)
-- Include metadata at the top of each file (model, date, settings used)
-- For analysis code, include comments and a basic README
+### For Story Submissions
+
+- All authentic stories should be saved as Markdown files in the `data/stories/` directory
+- Simulated or test examples should go in `data/simulated_examples/`
+- Name files consistently following the pattern `story_XX.md` where XX is a sequential number
+- Update `data/metadata.csv` with the new story's information
+- Update `data/README.md` to reflect the new addition
+- Do not modify the story text after generation - submit exactly as generated
+
+### For Analysis Code
+
+- Place analysis scripts in the `analysis/` directory
+- Include clear comments and docstrings
+- Add dependencies to `analysis/requirements.txt`
+- Update `analysis/README.md` with usage instructions
+- Include example outputs or expected results
 
 ## Questions and Contact
 
