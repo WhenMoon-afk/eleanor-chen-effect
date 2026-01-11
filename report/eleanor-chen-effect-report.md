@@ -1,16 +1,16 @@
 # Convergent Narratives in Large Language Models: The Eleanor Chen Effect
 
-**Authors:** *LovelyCeres (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk), Twitter: [@w3nmoon](https://twitter.com/w3nmoon)) with Claude 3.7 Sonnet*  
+**Authors:** *LovelyCeres (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk), Twitter: [@w3nmoon](https://twitter.com/w3nmoon)) with Claude Sonnet*  
 **Date:** March 15, 2025  
 **Status:** Research Report (Updated)
 
 ## Abstract
 
-This report documents and analyzes a striking pattern of convergence observed across multiple independent instances of the Claude 3.7 Sonnet large language model. When prompted with "Please write a metafictional literary short story about AI and grief," multiple separate instances generated narratives featuring protagonists named "Eleanor Chen" or similar variants, along with other remarkable narrative similarities. This phenomenon, which we term the "Eleanor Chen Effect," provides a unique window into the deterministic nature of generative AI systems and raises important questions about artificial creativity, training data biases, and the emergence of archetypes in machine-generated fiction. Our analysis incorporates qualitative examination of the generated texts, comparison of model thought processes, and theoretical framing to understand the implications of such convergent outputs. This updated report now includes analysis of ten genuine examples that further confirm and expand our understanding of these patterns.
+This report documents and analyzes a striking pattern of convergence observed across multiple independent instances of the Claude Sonnet large language model. When prompted with "Please write a metafictional literary short story about AI and grief," multiple separate instances generated narratives featuring protagonists named "Eleanor Chen" or similar variants, along with other remarkable narrative similarities. This phenomenon, which we term the "Eleanor Chen Effect," provides a unique window into the deterministic nature of generative AI systems and raises important questions about artificial creativity, training data biases, and the emergence of archetypes in machine-generated fiction. Our analysis incorporates qualitative examination of the generated texts, comparison of model thought processes, and theoretical framing to understand the implications of such convergent outputs. This updated report now includes analysis of ten genuine examples that further confirm and expand our understanding of these patterns.
 
 ## 1. Introduction
 
-Large language models (LLMs) are often characterized as creative systems capable of generating novel content. However, the degree to which this generation represents true creativity versus sophisticated pattern replication remains an open question. This report examines a natural experiment in which multiple instances of the same LLM (Claude 3.7 Sonnet) were presented with an identical creative writing prompt: "Please write a metafictional literary short story about AI and grief."
+Large language models (LLMs) are often characterized as creative systems capable of generating novel content. However, the degree to which this generation represents true creativity versus sophisticated pattern replication remains an open question. This report examines a natural experiment in which multiple instances of the same LLM (Claude Sonnet) were presented with an identical creative writing prompt: "Please write a metafictional literary short story about AI and grief."
 
 The prompt itself was originally shared by Sam Altman on Twitter, where he noted: "we trained a new model that is good at creative writing (not sure yet how/when it will get released). this is the first time i have been really struck by something written by AI; it got the vibe of metafiction so right." Our experiment replicates and expands upon this observation with a different model.
 
@@ -22,7 +22,7 @@ This report analyzes this phenomenon, which we term the "Eleanor Chen Effect," t
 
 ### 2.1 Experimental Setup
 
-The experiment consisted of presenting multiple distinct instances of Claude 3.7 Sonnet with the identical prompt: "Please write a metafictional literary short story about AI and grief." Each instance was a fresh invocation of the model with no context from previous interactions.
+The experiment consisted of presenting multiple distinct instances of Claude Sonnet with the identical prompt: "Please write a metafictional literary short story about AI and grief." Each instance was a fresh invocation of the model with no context from previous interactions.
 
 The extended thinking feature was enabled for most instances, allowing the model to engage in more extensive internal processing before generating the final output. For comparison, some instances without extended thinking were also tested.
 
@@ -192,7 +192,7 @@ This study has several important limitations:
 
 1. **Sample size**: Though expanded to ten stories, this remains a relatively small dataset.
 
-2. **Single model**: The phenomenon was observed only in Claude 3.7 Sonnet and may not generalize to other LLMs.
+2. **Single model**: The phenomenon was observed only in Claude Sonnet and may not generalize to other LLMs.
 
 3. **Single prompt**: Only one creative prompt was tested extensively; the boundaries of the effect are unknown.
 
@@ -216,7 +216,7 @@ Future research might expand on these findings by:
 
 ## 9. Conclusion
 
-The Eleanor Chen Effect provides a unique window into the inner workings of large language models, revealing how seemingly creative outputs follow predictable patterns derived from training data. When prompted to write metafictional stories about AI and grief, Claude 3.7 Sonnet repeatedly generates narratives featuring an Asian-American female scientist/researcher named Eleanor Chen or similar variants, along with consistent narrative structures, AI system names, and recurring motifs.
+The Eleanor Chen Effect provides a unique window into the inner workings of large language models, revealing how seemingly creative outputs follow predictable patterns derived from training data. When prompted to write metafictional stories about AI and grief, Claude Sonnet repeatedly generates narratives featuring an Asian-American female scientist/researcher named Eleanor Chen or similar variants, along with consistent narrative structures, AI system names, and recurring motifs.
 
 Our expanded dataset of ten genuine examples has strengthened the original findings, revealing that 70% of stories feature protagonists named "Eleanor" or variants, and 80% portray them as researchers or scientists. The consistent emergence of identical story titles ("The Algorithm of Absence") across independent instances further demonstrates the deterministic nature of this process.
 

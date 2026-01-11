@@ -4,7 +4,7 @@ Research into convergent narrative patterns in LLM-generated stories
 
 ## Overview
 
-This repository documents a fascinating phenomenon observed across multiple large language model instances: When given the identical prompt "Please write a metafictional literary short story about AI and grief," several independent instances of Claude 3.7 Sonnet generated stories featuring a character named "Eleanor Chen" or similar variants, along with remarkable structural and thematic similarities.
+This repository documents a fascinating phenomenon observed across multiple large language model instances: When given the identical prompt "Please write a metafictional literary short story about AI and grief," several independent instances of Claude Sonnet generated stories featuring a character named "Eleanor Chen" or similar variants, along with remarkable structural and thematic similarities.
 
 This project analyzes these convergent patterns, explores their implications for AI creativity and determinism, and investigates what they reveal about the inner workings of large language models.
 
@@ -52,7 +52,7 @@ To explore this research:
 
 ## Credits
 
-Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) with Claude 3.7 Sonnet.
+Research by [LovelyCeres](https://twitter.com/w3nmoon) (GitHub: [WhenMoon-afk](https://github.com/WhenMoon-afk)) with Claude Sonnet.
 
 Original prompt from [Sam Altman](https://twitter.com/sama): "Please write a metafictional literary short story about AI and grief."
 
