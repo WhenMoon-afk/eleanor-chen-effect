@@ -1,10 +1,14 @@
-# Claude.md - Eleanor Chen Effect Research Project
+# CLAUDE.md
 
-## Project Overview
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-This repository documents and analyzes the "Eleanor Chen Effect" - a phenomenon where multiple independent instances of Claude Sonnet generated remarkably similar stories featuring a character named "Eleanor Chen" when given the identical prompt: "Please write a metafictional literary short story about AI and grief."
+## What This Is
+
+Research project documenting the "Eleanor Chen Effect" - a phenomenon where multiple independent instances of Claude Sonnet generated remarkably similar stories featuring a character named "Eleanor Chen" when given the identical prompt: *"Please write a metafictional literary short story about AI and grief."*
 
 **Research Focus**: Understanding convergent narrative patterns in LLM-generated stories and what they reveal about AI creativity, determinism, and training data influences.
+
+**Website**: https://whenmoon-afk.github.io/eleanor-chen-effect/
 
 ## Key Context
 
